@@ -29,5 +29,6 @@ hobbies = [
   "reading The Waste Land out loud",
   "watching deploy logs scroll",
   "long walks with one song on repeat",
+  "dual-deploying my notes across GitHub Pages and Cloudflare",
 ]
 +++
